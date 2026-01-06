@@ -1,49 +1,44 @@
-<h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">A passionate Junior Backend Developer from Ecuador 🇪🇨 | 27 years old</h3>
+# Hi there, I'm Pablo 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=paulus19v&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+**Junior Backend Developer from Ecuador 🇪🇨 | 27 years old**
+
+Passionate about building clean, scalable backend solutions and full-stack applications. Always learning and improving!
+
+### 🚀 About Me
+- 🌎 Based in Ecuador
+- 💼 Junior Backend Developer
+- 🔭 Currently deepening my skills in **Django Framework** (class-based views, Django REST Framework, authentication, testing, deployment)
+- 🌱 Learning best practices: clean architecture, testing, Docker, and CI/CD
+- 👯 I've built full-stack apps using **Django** (backend) with **React** and **Angular** (frontend)
+
+### 🛠️ Tech Stack
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=paulus19v" alt="trophies" />
-  </a>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulus19v&show_icons=true&theme=dark&hide_border=true" alt="Pablo's GitHub Stats" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/saintpab19" target="blank">
-    <img src="https://img.shields.io/twitter/follow/saintpab19?logo=twitter&style=for-the-badge" alt="twitter" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulus19v&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-- 🔭 I'm a **Junior Backend Developer** focused on building robust and scalable solutions  
-- 🌱 I’m currently learning and deepening my knowledge in **Django Framework**  
-- 👯 I’ve developed applications using **Angular**, **React**, and **Django**  
-- 📫 How to reach me: **pab059819.vip@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/saintpab19" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saintpab19" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulus19v&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank
+### 📫 Get in Touch
+- Email: pab059819.vip@gmail.com
+- Twitter: [@pavlvsofmary](https://twitter.com/pavlvsofmary)
+
+Open to collaborations, feedback, and new opportunities! 🚀
