@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo.</h1>
 <h3 align="center">A passionate frontend developer from Ecuador.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulus19v&label=Profile%20views&color=0e75b6&style=flat" alt="paulus19v" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulus19v&label=Profile%20views&color=0e75b6&style=flat" alt="paulusofmary" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulus19v" alt="paulus19v" /></a> </p>
 
