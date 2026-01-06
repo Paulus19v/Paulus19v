@@ -25,20 +25,21 @@ Passionate about building clean, scalable backend solutions and full-stack appli
 </p>
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulus19v&show_icons=true&theme=dark&hide_border=true" alt="Pablo's GitHub Stats" />
+  <img src="https://stats.quantumly.dev/api?username=paulus19v&theme=dark&hide_border=true&show_icons=true" alt="Pablo's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulus19v&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://stats.quantumly.dev/api/top-langs/?username=paulus19v&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulus19v&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=paulus19v&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📫 Get in Touch
 - Email: pab059819.vip@gmail.com
-- Twitter: [@pavlvsofmary](https://twitter.com/pavlvsofmary)
+- Twitter: [@saintpab19](https://twitter.com/saintpab19)
 
 Open to collaborations, feedback, and new opportunities! 🚀
