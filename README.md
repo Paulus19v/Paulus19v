@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulus19v" alt="paulus19v" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saintpab19" target="blank"><img src="https://img.shields.io/twitter/follow/saintpab19?logo=twitter&style=for-the-badge" alt="saintpab19" /></a> </p>
+<p align="left"> <a href="https://twitter.com/paulusofmary" target="blank"><img src="https://img.shields.io/twitter/follow/saintpab19?logo=twitter&style=for-the-badge" alt="saintpab19" /></a> </p>
 
-- 🌱 I’m currently learning **Angular and React Framework**
+- 🌱 I’m currently learning **Python and Django Framework!**
 
 - 📫 How to reach me **pab059819.vip@gmail.com**
 
-- 👯 I worked on JS Projects using Angular framework
+- 👯 I worked on JS Projects using Angular & django
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
