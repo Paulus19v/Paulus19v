@@ -1,6 +1,6 @@
 # Hi there, I'm Pablo 👋
 
-**Junior Backend Developer from Ecuador 🇪🇨 | 27 years old**
+**Junior Backend Developer from Ecuador 🇪🇨**
 
 Passionate about building clean, scalable backend solutions and full-stack applications. Always learning and improving!
 
