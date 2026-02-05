@@ -24,22 +24,10 @@ Passionate about building clean, scalable backend solutions and full-stack appli
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://stats.quantumly.dev/api?username=paulus19v&theme=dark&hide_border=true&show_icons=true" alt="Pablo's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://stats.quantumly.dev/api/top-langs/?username=paulus19v&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=paulus19v&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ### 📫 Get in Touch
 - Email: pab059819.vip@gmail.com
-- Twitter: [@saintpab19](https://twitter.com/saintpab19)
+- Twitter: [@pavlvsofmary]((https://x.com/pavlvsofmary))
 
 Open to collaborations, feedback, and new opportunities! 🚀
